@@ -35,14 +35,19 @@ The dataset used in this project is:
 This file is included in the GitHub repository.
 
 ### Dataset Source
-- **Source:** Kaggle
-- **Access Date:** 19 of April 
+- **Source:** [Kaggle Dataset: Sports Footwear Sales and Consumer Behavior](https://www.kaggle.com/datasets/aliiihussain/sports-footwear-sales-and-consumer-behavior)
+- **Access Date:** 19 of April
+- 
 
-### How to Use the Data
-To use the dataset:
+### How to Use This Repository
+To use this project:
+
 1. Download or clone this GitHub repository.
-2. Make sure the file `global_sports_footwear_sales_2018_2026.csv` is saved in the same working directory as the notebook or Python script.
-3. Load the dataset into Python using pandas for analysis and visualisation.
+2. Open the Jupyter Notebook file in Jupyter Notebook or JupyterLab.
+3. Make sure the required Python libraries are installed, including `kagglehub`, `pandas`, `numpy`, `matplotlib`, and `seaborn`.
+4. Run the notebook cells in order from top to bottom.
+5. The notebook will automatically download the dataset from Kaggle, locate the CSV file, and load it into Python for analysis.
+
 
 ## Key Variables Used in the Notebook
 The main variables used in this analysis are:
