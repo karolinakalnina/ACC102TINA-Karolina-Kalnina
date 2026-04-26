@@ -80,6 +80,8 @@ The workflow used in this project is:
 ## Python Libraries Used
 The main Python libraries used in this project are:
 
+- `kagglehub` — for downloading the dataset directly from Kaggle
+- `os` — for locating the downloaded CSV file
 - `pandas` — for data loading and manipulation
 - `NumPy` — for numerical operations
 - `matplotlib` — for visualisations
